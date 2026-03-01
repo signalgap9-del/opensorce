@@ -1,7 +1,12 @@
 # opensorce
 오픈소스
 
+https://dev-hiro.tistory.com/23
+https://hepsoftwarefoundation.org/activities/gsoc.html
 
+구글서머오브코드?
+
+https://medium.com/@Jager-yoo/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%84%B0%EC%9D%98-%EC%82%B6-61de5cc48a8c
 제시해주신 유튜브 영상 **"엔비디아 소프트웨어 엔지니어가 알려주는 오픈소스 하는법!!!"**의 주요 내용을 분석하여 요약해 드립니다.
 
 이 영상은 엔비디아(NVIDIA)에 재직 중인 소프트웨어 엔지니어가 오픈소스 프로젝트에 기여(Contribution)하고 싶은 초보자들을 위해 실질적인 단계와 팁을 공유하는 내용입니다.

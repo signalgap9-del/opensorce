@@ -1,6 +1,12 @@
 # opensorce
 오픈소스
 
+https://mvcv.tistory.com/85
+
+
+https://www.youtube.com/watch?v=F3rAfuWGO3g
+
+
 https://dev-hiro.tistory.com/23
 https://hepsoftwarefoundation.org/activities/gsoc.html
 

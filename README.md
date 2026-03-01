@@ -2,7 +2,40 @@
 오픈소스
 
 
+제시해주신 유튜브 영상 **"엔비디아 소프트웨어 엔지니어가 알려주는 오픈소스 하는법!!!"**의 주요 내용을 분석하여 요약해 드립니다.
 
+이 영상은 엔비디아(NVIDIA)에 재직 중인 소프트웨어 엔지니어가 오픈소스 프로젝트에 기여(Contribution)하고 싶은 초보자들을 위해 실질적인 단계와 팁을 공유하는 내용입니다.
+
+### 1. 오픈소스 시작을 위한 3단계 전략
+
+* **1단계: 'Beginner-Friendly' 프로젝트 찾기 [[01:04](http://www.youtube.com/watch?v=DNXwQwJTgyA&t=64)]**
+* 모든 프로젝트가 초보자에게 친절한 것은 아닙니다. `README.md` 파일에 컨트리뷰션 가이드(Contribution Guide)가 잘 작성되어 있는 프로젝트를 선택하는 것이 중요합니다. 영상에서는 예시로 'PyTorch Lightning' 같은 라이브러리를 언급합니다.
+
+
+* **2단계: 'Good First Issue' 레이블 활용 [[02:04](http://www.youtube.com/watch?v=DNXwQwJTgyA&t=124)]**
+* 프로젝트의 'Issues' 탭에서 **`good first issue`** 또는 **`beginner-friendly`**라는 레이블이 붙은 이슈를 찾아보세요. 이는 메인테이너들이 초보자가 해결하기 적당하다고 판단하여 남겨둔 과제들입니다. [[02:39](http://www.youtube.com/watch?v=DNXwQwJTgyA&t=159)]
+
+
+* **3단계: 실제 작업 및 소통 [[03:17](http://www.youtube.com/watch?v=DNXwQwJTgyA&t=197)]**
+* 하고 싶은 이슈를 찾았다면 "내가 이 작업을 해도 될까요?"라고 댓글을 남겨 의사를 밝히는 것이 좋습니다. 그 후 작업을 진행하고 Pull Request(PR)를 보냅니다. [[03:39](http://www.youtube.com/watch?v=DNXwQwJTgyA&t=219)]
+
+
+
+### 2. 적극적인 태도와 네트워킹 [[04:56](http://www.youtube.com/watch?v=DNXwQwJTgyA&t=296)]
+
+* 단순히 코드만 수정하는 것을 넘어, 해당 프로젝트의 메인테이너나 관련자에게 이메일이나 메시지를 보내 더 깊게 기여하고 싶다는 의사를 표현해보라고 권장합니다. [[05:10](http://www.youtube.com/watch?v=DNXwQwJTgyA&t=310)]
+* 어떤 태스크를 맡으면 좋을지 직접 물어보는 것도 좋은 방법이며, 이러한 과정이 커리어에 큰 도움이 될 수 있음을 강조합니다. [[06:02](http://www.youtube.com/watch?v=DNXwQwJTgyA&t=362)]
+
+### 3. 유의해야 할 마음가짐 [[06:24](http://www.youtube.com/watch?v=DNXwQwJTgyA&t=384)]
+
+* **오픈소스는 본업이 아니다 [[07:28](http://www.youtube.com/watch?v=DNXwQwJTgyA&t=448)]:** 대부분의 오픈소스 메인테이너들은 본업 외의 시간에 활동하므로 답장이 늦을 수 있습니다. 여유를 가지고 기다리는 자세가 필요합니다. [[07:35](http://www.youtube.com/watch?v=DNXwQwJTgyA&t=455)]
+* **두려움 극복:** "말하는 것만큼 쉽지 않다"고 인정하면서도, 일단 부딪혀보는 것이 중요하다고 조언합니다. [[04:27](http://www.youtube.com/watch?v=DNXwQwJTgyA&t=267)]
+
+### 요약 및 결론
+
+이 영상의 핵심은 **"작은 것부터, 친절한 프로젝트에서, 소통하며 시작하라"**는 것입니다. 엔비디아 엔지니어라는 현직자의 시선에서 오픈소스가 단순한 코딩 공부를 넘어 인맥을 쌓고 실력을 증명하는 훌륭한 창구임을 잘 보여주고 있습니다.
+
+**영상 링크:** [https://www.youtube.com/watch?v=DNXwQwJTgyA](https://www.youtube.com/watch?v=DNXwQwJTgyA)
 
 
 응, **규모 꽤 큼**. “코드량”을 *대충 감 잡는 용도*로 보면 아래 정도야(지금 Open Hub 기준이라 포함/제외 규칙에 따라 약간 흔들릴 수는 있음).

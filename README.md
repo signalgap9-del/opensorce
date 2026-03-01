@@ -1,6 +1,9 @@
 # opensorce
 오픈소스
 
+https://52north.org/outreach-dissemination/google-summer-of-code/project-ideas/
+이거해보자
+
 https://summerofcode.withgoogle.com/programs/2026/organizations/mllam
 https://summerofcode.withgoogle.com/programs/2026/organizations/openstreetmap
 

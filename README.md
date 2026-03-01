@@ -1,5 +1,8 @@
 # opensorce
 오픈소스
+
+https://summerofcode.withgoogle.com/programs/2026/organizations
+
 https://summerofcode.withgoogle.com/programs/2026/organizations
 
 https://grok.com/c/1d707141-4137-428b-9866-be8e87faf9f7?rid=6394a7b6-a38e-4250-9323-73d1e3bd965f

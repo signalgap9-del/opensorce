@@ -1,6 +1,9 @@
 # opensorce
 오픈소스
 
+https://www.youtube.com/watch?v=F3rAfuWGO3g
+https://summerofcode.withgoogle.com/programs/2026/organizations
+
 https://mvcv.tistory.com/85
 
 

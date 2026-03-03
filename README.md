@@ -1,6 +1,9 @@
 # opensorce
 오픈소스
 
+https://52north.org/outreach-dissemination/google-summer-of-code/applying-for-gsoc-52north/
+
+
 https://52north.org/outreach-dissemination/google-summer-of-code/project-ideas/
 이거해보자
 
